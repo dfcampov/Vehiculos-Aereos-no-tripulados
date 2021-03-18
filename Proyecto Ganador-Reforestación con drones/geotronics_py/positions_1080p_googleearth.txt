@@ -1,0 +1,38 @@
+x: 57
+y: 70
+
+x: 1755
+y: 945
+
+poi
+x:960
+y:563
+latitude-> -0.24954104986386996
+longitude-> -79.1604114600463
+elev-> 400
+
+upleft:
+latitude-> -0.24856818
+longitude-> -79.16225096
+
+downright:
+latitude-> -0.25031801
+longitude-> -79.15883064
+
+## update from here ##
+from poi to upleft:
+delta_lon = -0.00000004
+delta_lat = +0.000000049864
+
+from poi to downright:
+delta_lon = +0.00158082
+delta_lat = -0.000776960136
+
+total in capture:
+delta_pixels_width = 1700
+delta_pixels_height = 873
+delta_lon_width = 0.00158086
+delta_lat_height = 0.00077701
+
+
+
